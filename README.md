@@ -1,0 +1,1 @@
+To run:  'npm install' and then 'nodemon server.js'
